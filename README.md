@@ -17,3 +17,6 @@
 
 ## Contact
 - Email: your@email.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mz310&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mz310&layout=compact)
